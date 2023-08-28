@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hanzala</h1>
 <h3 align="center">Front-End Developer</h3>
 
-- 🌱 I’m currently Exploring **Angular**
+- 🌱 I’m currently Exploring **Angular JS**
 
 - 📫 How to reach me **hanzalafarhann@gmail.com**
 
